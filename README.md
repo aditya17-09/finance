@@ -148,7 +148,7 @@ For future improvement, we can consider the following ideas:
 
 ## Author
 
-- **AJ Singh** (https://github.com/aj112358/)
+- **Aditya Gautam** (https://github.com/gomzee17-09/)
 
 
 ## Acknowledgements
@@ -156,13 +156,3 @@ For future improvement, we can consider the following ideas:
 - Creators of Microsoft PowerBI - It's a pretty amazing tool!
 - All the kind and patient cashiers who took the time to print out a receipt for me.
 - Viewers of my GitHub page...Thanks for visiting!
-
-
-<!-- Image References -->
-
-[ExecSumm]: images/executive_summary.png "Main summary of data"
-[Granular]: images/granular_info.png "Second dashboard for detailed inormation"
-[DashPlan]: images/dashboard_planning.jpg "My original layout for the dashboards"
-[Questions]: images/investigative_questions.jpg "The original questions I wanted answers to"
-#   f i n a n c e  
- 
